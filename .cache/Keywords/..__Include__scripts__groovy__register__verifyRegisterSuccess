@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "00549FCBE261538C4B44FED0279655D6",
+  "keywordClasses": [
+    {
+      "name": "register.verifyRegisterSuccess",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
